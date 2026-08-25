@@ -10,10 +10,12 @@
 ### Linux
 
 - [الفهرس الكامل](linux/README.md)
-- [الأساسيات وإدارة الملفات](linux/basics/file-management.md)
-- [الشبكات وتشخيصها](linux/networking/network-diagnostics.md)
-- [إدارة النظام والخدمات](linux/system/system-services.md)
-- [الأمان واختبار الشبكة المصرح به](linux/security/authorized-security-checks.md)
+- [الأوامر المشتركة](linux/README.md#الأوامر-المشتركة)
+- [التوزيعات وعائلاتها](linux/distributions/README.md)
+- [Debian وUbuntu وKali](linux/distributions/debian-family/README.md)
+- [Fedora وRHEL](linux/distributions/redhat-family/README.md)
+- [Arch Linux](linux/distributions/arch-family/README.md)
+- [openSUSE](linux/distributions/suse-family/README.md)
 
 ### Windows
 
