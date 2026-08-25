@@ -17,11 +17,19 @@
 
 ### Windows
 
-- [Windows PowerShell وCMD](windows/README.md)
+- [فهرس Windows الكامل](windows/README.md)
+- [الأساسيات وإدارة الملفات](windows/basics/file-management.md)
+- [الشبكات وتشخيصها](windows/networking/network-diagnostics.md)
+- [إدارة النظام والخدمات](windows/system/system-services.md)
+- [الأمان والفحوص المحلية](windows/security/local-security-checks.md)
 
 ### macOS
 
-- [macOS Terminal](macos/README.md)
+- [فهرس macOS الكامل](macos/README.md)
+- [الأساسيات وإدارة الملفات](macos/basics/file-management.md)
+- [الشبكات وتشخيصها](macos/networking/network-diagnostics.md)
+- [إدارة النظام والخدمات](macos/system/system-services.md)
+- [الأمان والفحوص المحلية](macos/security/local-security-checks.md)
 
 ## البحث السريع
 
