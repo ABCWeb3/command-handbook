@@ -1,29 +1,20 @@
-# أوامر macOS
+# فهرس أوامر macOS
 
-سيضم هذا القسم أوامر Terminal الخاصة بـ macOS، مع توضيح الفرق بينها وبين Linux عند الحاجة.
+تُنفّذ الأوامر في **Terminal**. بعض خيارات أدوات macOS تختلف عن GNU/Linux.
 
-## بداية سريعة
-
-إصدار macOS:
+| القسم | المحتوى |
+|---|---|
+| [الأساسيات وإدارة الملفات](basics/file-management.md) | التنقل، النسخ، البحث والمساحة |
+| [الشبكات وتشخيصها](networking/network-diagnostics.md) | الواجهات، البوابة، DNS والمنافذ |
+| [إدارة النظام والخدمات](system/system-services.md) | النظام، العمليات، `launchctl` والتحديثات |
+| [الأمان والفحوص المحلية](security/local-security-checks.md) | التجزئة، FileVault، الجدار الناري والتوقيعات |
 
 ```bash
 sw_vers
 ```
 
-عرض إعدادات واجهات الشبكة:
-
 ```bash
-ifconfig
+uname -m
 ```
 
-عرض البوابة الافتراضية:
-
-```bash
-route -n get default
-```
-
-اختبار منفذ TCP:
-
-```bash
-nc -vz 192.168.1.190 5000
-```
+`arm64` يعني Apple silicon و`x86_64` يعني Intel.
