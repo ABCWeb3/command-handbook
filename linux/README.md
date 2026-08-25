@@ -10,6 +10,12 @@
 | [الشبكات](common/networking/network-diagnostics.md) | IP وDNS والمنافذ والاتصال |
 | [النظام والخدمات](common/system/system-services.md) | العمليات والسجلات و`systemd` |
 | [الأمان المصرح به](common/security/authorized-security-checks.md) | التجزئة والمنافذ وفحص شبكتك |
+| [المستخدمون والمجموعات](common/users/users-groups.md) | الحسابات والمجموعات والملكية |
+| [الأقراص والتخزين](common/storage/disks-filesystems.md) | الأقراص والتركيب والمساحة |
+| [العمليات والمهام](common/processes/processes-jobs.md) | العمليات والأولوية ومهام الصدفة |
+| [الأرشفة والضغط](common/archives/archives-compression.md) | tar وZIP و7-Zip |
+| [SSH ونقل الملفات](common/remote/ssh-transfer.md) | SSH وSCP وrsync |
+| [معالجة النصوص](common/text/text-processing.md) | sort وcut وawk وsed وdiff |
 
 ## التوزيعات
 
