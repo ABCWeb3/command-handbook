@@ -9,17 +9,17 @@
 
 ### Linux
 
-- [الفهرس الكامل](linux/README.md)
-- [الأوامر المشتركة](linux/README.md#الأوامر-المشتركة)
-- [التوزيعات وعائلاتها](linux/distributions/README.md)
-- [Debian وUbuntu وKali](linux/distributions/debian-family/README.md)
-- [Fedora وRHEL](linux/distributions/redhat-family/README.md)
-- [Arch Linux](linux/distributions/arch-family/README.md)
-- [openSUSE](linux/distributions/suse-family/README.md)
+- [الفهرس الكامل](linux/index.md)
+- [الأوامر المشتركة](linux/index.md#الأوامر-المشتركة)
+- [التوزيعات وعائلاتها](linux/distributions/index.md)
+- [Debian وUbuntu وKali](linux/distributions/debian-family/index.md)
+- [Fedora وRHEL](linux/distributions/redhat-family/index.md)
+- [Arch Linux](linux/distributions/arch-family/index.md)
+- [openSUSE](linux/distributions/suse-family/index.md)
 
 ### Windows
 
-- [فهرس Windows الكامل](windows/README.md)
+- [فهرس Windows الكامل](windows/index.md)
 - [الأساسيات وإدارة الملفات](windows/basics/file-management.md)
 - [الشبكات وتشخيصها](windows/networking/network-diagnostics.md)
 - [إدارة النظام والخدمات](windows/system/system-services.md)
@@ -27,7 +27,7 @@
 
 ### macOS
 
-- [فهرس macOS الكامل](macos/README.md)
+- [فهرس macOS الكامل](macos/index.md)
 - [الأساسيات وإدارة الملفات](macos/basics/file-management.md)
 - [الشبكات وتشخيصها](macos/networking/network-diagnostics.md)
 - [إدارة النظام والخدمات](macos/system/system-services.md)
