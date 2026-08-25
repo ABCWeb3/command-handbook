@@ -38,6 +38,12 @@ html, body, .VPNav, .VPSidebar, .VPDoc, .VPHome {
   border-radius: 14px !important;
 }
 
+.VPFeature .icon img {
+  width: 40px;
+  height: 40px;
+  border-radius: 9px;
+}
+
 .VPDoc h1, .VPDoc h2, .VPDoc h3 {
   letter-spacing: 0;
   line-height: 1.5;
