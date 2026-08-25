@@ -17,15 +17,21 @@ hero:
       link: /macos/
 
 features:
-  - icon: 🐧
+  - icon:
+      src: /linux.svg
+      alt: Linux
     title: Linux
     details: أوامر مشتركة وتصنيف حسب Debian وUbuntu وKali وFedora وRHEL وArch وopenSUSE.
     link: /linux/
-  - icon: 🪟
+  - icon:
+      src: /windows.svg
+      alt: Windows
     title: Windows
     details: أوامر PowerShell للملفات والشبكات والخدمات والمستخدمين والأقراص والبرامج.
     link: /windows/
-  - icon: ⌘
+  - icon:
+      src: /macos.svg
+      alt: macOS
     title: macOS
     details: أوامر Terminal وdiskutil وlaunchctl وHomebrew والوصول البعيد.
     link: /macos/
