@@ -63,4 +63,4 @@ rg -n "systemctl" linux/
 
 ## الترخيص
 
-هذا المشروع متاح وفق [ترخيص MIT](LICENSE).
+هذا المشروع متاح وفق [ترخيص MIT](https://github.com/ABCWeb3/command-handbook/blob/main/LICENSE).
