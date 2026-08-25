@@ -31,6 +31,7 @@ export default defineConfig({
       { text: 'Linux', link: '/linux/' },
       { text: 'Windows', link: '/windows/' },
       { text: 'macOS', link: '/macos/' },
+      { text: 'المساهمة', link: '/CONTRIBUTING' },
       { text: 'GitHub', link: 'https://github.com/ABCWeb3/command-handbook' }
     ],
     search: {
@@ -63,12 +64,16 @@ export default defineConfig({
         ]},
         { text: 'التوزيعات', collapsed: false, items: [
           { text: 'دليل التوزيعات', link: '/linux/distributions/' },
+          { text: 'عائلة Debian', link: '/linux/distributions/debian-family/' },
           { text: 'Debian', link: '/linux/distributions/debian-family/debian' },
           { text: 'Ubuntu', link: '/linux/distributions/debian-family/ubuntu' },
           { text: 'Kali Linux', link: '/linux/distributions/debian-family/kali' },
+          { text: 'عائلة Red Hat', link: '/linux/distributions/redhat-family/' },
           { text: 'Fedora', link: '/linux/distributions/redhat-family/fedora' },
           { text: 'RHEL ومشتقاته', link: '/linux/distributions/redhat-family/rhel' },
+          { text: 'عائلة Arch', link: '/linux/distributions/arch-family/' },
           { text: 'Arch Linux', link: '/linux/distributions/arch-family/arch-linux' },
+          { text: 'عائلة SUSE', link: '/linux/distributions/suse-family/' },
           { text: 'openSUSE', link: '/linux/distributions/suse-family/opensuse' }
         ]}
       ],
@@ -102,6 +107,10 @@ export default defineConfig({
           { text: 'الأمان المحلي', link: '/macos/security/local-security-checks' }
         ]}
       ]
+    },
+    editLink: {
+      pattern: 'https://github.com/ABCWeb3/command-handbook/edit/main/:path',
+      text: 'تعديل هذه الصفحة على GitHub'
     },
     outline: { level: [2, 3], label: 'في هذه الصفحة' },
     docFooter: { prev: 'السابق', next: 'التالي' },
